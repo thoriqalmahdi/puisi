@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [LaTeX.CSS](https://latex.vercel.app/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -70,3 +71,7 @@ The idea of sidenotes was taken and adpated from [Tufte CSS](https://edwardtufte
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+=======
+# puisi
+Antologi Puisi Thoriq Al Mahdi
+>>>>>>> 7f48eff7c7eba24c28e0bfcafb5b59f5a2051cff
